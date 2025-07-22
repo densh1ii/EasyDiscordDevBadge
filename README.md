@@ -84,7 +84,7 @@ now download the bot file from here:
 3. click **File → Open**, then switch to **All Files** at the bottom  
 4. open `main.py`
 
-![Open in Notepad](assets/8.png)
+![Open in Notepad](assets/12.png)
 
 inside the file, change:
 
